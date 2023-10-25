@@ -1,0 +1,2 @@
+# my_own_collection
+netology_ansible_module
