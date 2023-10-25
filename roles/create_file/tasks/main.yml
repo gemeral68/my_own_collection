@@ -1,0 +1,6 @@
+---
+# tasks file for create_file
+- name: Create_file
+  my_own_collection.yandex_cloud_elk.my_own_module:
+    path: '{{path}}'
+    content: '{{content}}'
